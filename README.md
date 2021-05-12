@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/wilso663/stats-preview-card-component](https://github.com/wilso663/tindog-markup-challenge)
+- Solution URL: [https://github.com/wilso663/tindog-markup-challenge](https://github.com/wilso663/tindog-markup-challenge)
 - Live Site URL: [https://inspiring-fermat-0262ec.netlify.app/](https://inspiring-fermat-0262ec.netlify.app/)
 
 ## My process
