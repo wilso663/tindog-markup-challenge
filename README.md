@@ -1,4 +1,4 @@
-# Frontend Mentor - Stats preview card component solution
+# Angela Yu Web Development Course - Tindog Bootstrap Challenge solution
 
 This is a solution to the [TinDog Bootstrap exercise chapter by Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp). 
 
